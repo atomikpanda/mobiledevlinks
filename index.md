@@ -4,6 +4,10 @@
 
 [http://nsdateformatter.com/](http://nsdateformatter.com/)
 
+[http://uicolor.xyz/](http://uicolor.xyz/)
+
+[https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
+
 ### Swift
 
 [http://goshdarnclosuresyntax.com/](http://goshdarnclosuresyntax.com/)
