@@ -38,4 +38,4 @@
 
 [http://drastudio.com/learn](http://drastudio.com/learn)
 
-https://appicon.co/ — App Icon Asset Generator
+[https://appicon.co/](https://appicon.co/) — App Icon Asset Generator
