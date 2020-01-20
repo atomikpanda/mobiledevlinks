@@ -8,6 +8,8 @@
 
 [https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
+[https://www.wtfautolayout.com/](https://www.wtfautolayout.com/)
+
 ### Swift
 
 [http://goshdarnclosuresyntax.com/](http://goshdarnclosuresyntax.com/)
